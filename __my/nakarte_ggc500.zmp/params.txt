@@ -1,0 +1,15 @@
+
+[PARAMS]
+asLayer=0
+pnum=211
+GUID={bf0a1673-196f-4e8d-a9c9-964b011cae65}
+name_ru=nakarte_ggc500
+name=nakarte_ggc500
+ParentSubMenu_ru=My
+ParentSubMenu=My
+DefURLBase=https://a.tiles.nakarte.me/ggc500/
+EPSG=3785
+NameInCache=nk_ggc500
+Ext=.png
+defaultContentType=image/png
+ContentType="image/png"

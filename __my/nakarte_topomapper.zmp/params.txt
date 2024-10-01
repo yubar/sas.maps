@@ -1,0 +1,16 @@
+
+[PARAMS]
+asLayer=0
+pnum=212
+GUID={8ccaa655-c302-4adc-bcde-38fd9d1977f6}
+name_ru=nakarte_topomapper
+name=nakarte_topomapper
+ParentSubMenu_ru=My
+ParentSubMenu=My
+DefURLBase=https://proxy.nakarte.me/http/88.99.52.155/cgi-bin/tapp/tilecache.py/1.0.0/topomapper_v2/
+EPSG=3785
+NameInCache=nk_topomapper
+Ext=.jpg
+defaultContentType=image/jpg
+ContentType="image/jpg"
+IgnoreContentType =1

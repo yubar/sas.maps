@@ -1,0 +1,20 @@
+﻿
+[PARAMS]
+asLayer=1
+pnum=201
+GUID={e72673a6-8d40-466a-8875-6f89e67409f5}
+name_ru=OSM Ridge map
+name=OSM Ridge map
+name_uk=OSM Ridge map
+NameInCache=OSMRidgeMap
+DefURLBase=http://openridgemap.ru/hot
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+PARENTSUBMENU=My
+DefHotKey=82
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=© OpenStreetMap contributors, CC-BY-SA; rendering by YB

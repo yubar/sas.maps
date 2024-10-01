@@ -1,0 +1,16 @@
+
+[PARAMS]
+asLayer=0
+pnum=211
+GUID={c335d6b1-02c0-4355-84cc-21eb83db2570}
+name_ru=nakarte_gsh10k
+name=nakarte_gsh10k
+ParentSubMenu_ru=My
+ParentSubMenu=My
+DefURLBase=https://a.tiles.nakarte.me/topo001m/
+EPSG=3785
+NameInCache=nk_gsh10k
+Ext=.jpg
+defaultContentType=image/jpg
+ContentType="image/jpg"
+IgnoreContentType=1

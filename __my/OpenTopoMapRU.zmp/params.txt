@@ -1,0 +1,25 @@
+﻿
+[PARAMS]
+GUID={8fe8622b-87a6-42fe-8c53-a690bf2bdab9}
+
+ParentSubMenu_ru=Туристические\Россия и соседние страны
+ParentSubMenu_uk=Топокарти\Україна та сусідні країни
+ParentSubMenu=Hike\ex-USSR
+
+name_ru=OSM OpenTopoMap.RU
+name_uk=OSM OpenTopoMap.RU
+name=OSM OpenTopoMap.RU
+
+NameInCache=OpenTopoMapRU
+asLayer=0
+EPSG=3785
+
+DefURLBase=https://tile-{s}.opentopomap.ru/{z}/{x}/{y}.png
+
+ServerNames=a,b,c
+RequestHead=Referer:http://www.sasgis.org/
+
+Ext=.png
+DetectContentType=1
+ContentType=image/jpeg,image/png
+License= © OpenStreetMap, OpenTopoMap.ru

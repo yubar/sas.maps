@@ -1,0 +1,15 @@
+
+[PARAMS]
+asLayer=0
+pnum=210
+GUID={3bc97053-705a-47e9-ad3d-116c15e4dc72}
+name_ru=nakarte_advraces
+name=nakarte_advraces
+ParentSubMenu_ru=My
+ParentSubMenu=My
+DefURLBase=https://tiles.nakarte.me/adraces/
+EPSG=3785
+NameInCache=nk_advraces
+Ext=.png
+defaultContentType=image/png
+ContentType="image/png"

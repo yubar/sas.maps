@@ -1,0 +1,19 @@
+﻿
+[PARAMS]
+asLayer=1
+pnum=200
+GUID={7181c5eb-eeff-4915-bdfd-56097b5d121b}
+name_ru=OSM local
+name=OSM local
+name_uk=OSM local
+NameInCache=OSM_local
+DefURLBase=http://localhost:88/hot
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+PARENTSUBMENU=My
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=© OpenStreetMap contributors, CC-BY-SA; rendering by YB

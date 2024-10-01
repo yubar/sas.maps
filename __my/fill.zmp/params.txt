@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+pnum=199
+GUID={40803c4e-2f91-47a0-99d7-ec16f750780d}
+name_ru=Fill:white
+name=Fill:white
+name_uk=Fill:white
+NameInCache=Fill_white
+DefURLBase=file:///c:/ProgramData/SAS.Planet/Maps/sas.plus.maps/__my/fill.zmp
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+PARENTSUBMENU=My
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8

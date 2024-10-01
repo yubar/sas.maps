@@ -1,0 +1,15 @@
+
+[PARAMS]
+asLayer=0
+pnum=210
+GUID={327abbe2-c554-4daf-88bd-80b688619281}
+name_ru=VMB2022
+name=VMB2022
+ParentSubMenu_ru=My
+ParentSubMenu=My
+DefURLBase=https://openridgemap.ru/VMB/
+EPSG=3785
+NameInCache=vmb2022
+Ext=.png
+defaultContentType=image/png
+ContentType="image/png"

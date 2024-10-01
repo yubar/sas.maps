@@ -1,0 +1,15 @@
+
+[PARAMS]
+asLayer=0
+pnum=211
+GUID={6B2AEDB4-532C-469D-B156-C811E0A93FB9}
+name_ru=nakarte_o_sport
+name=nakarte_o_sport
+ParentSubMenu_ru=My
+ParentSubMenu=My
+DefURLBase=https://tiles.nakarte.me/osport/
+EPSG=3785
+NameInCache=nk_o_sport
+Ext=.png
+defaultContentType=image/png
+ContentType="image/png"
